@@ -1,6 +1,6 @@
 {
   "name": "super-copyright",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Lightweight Web Component for automatic copyright notices",
   "main": "dist/super-copyright.min.js",
   "files": [
